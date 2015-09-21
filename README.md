@@ -3,6 +3,6 @@
 
 http://david-tong1997.github.io/David.Blog
 
-<h1>我的第一个标题</h1>
+#我的第一个标题
 
-<p>我的第一个段落。</p>
+#我的第一个段落
